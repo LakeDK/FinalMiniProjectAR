@@ -1,0 +1,11 @@
+com.vuforia.engine.VuforiaEngine.launcher-VuforiaEngine-0 C:\Users\lakec\.gradle\caches\transforms-3\afac842941afb4db3f5e8d642a687eba\transformed\VuforiaEngine\res
+com.vuforia.engine.VuforiaEngine.launcher-core-1.36.0-1 C:\Users\lakec\.gradle\caches\transforms-3\e8257781b169fd52461fe658b1223fcb\transformed\core-1.36.0\res
+com.vuforia.engine.VuforiaEngine.launcher-pngs-2 C:\Users\lakec\OneDrive\Skrivebord\MiniProjectAR\SDULens\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\pngs\release
+com.vuforia.engine.VuforiaEngine.launcher-resValues-3 C:\Users\lakec\OneDrive\Skrivebord\MiniProjectAR\SDULens\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\resValues\release
+com.vuforia.engine.VuforiaEngine.launcher-rs-4 C:\Users\lakec\OneDrive\Skrivebord\MiniProjectAR\SDULens\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\rs\release
+com.vuforia.engine.VuforiaEngine.launcher-mergeReleaseResources-5 C:\Users\lakec\OneDrive\Skrivebord\MiniProjectAR\SDULens\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.vuforia.engine.VuforiaEngine.launcher-mergeReleaseResources-6 C:\Users\lakec\OneDrive\Skrivebord\MiniProjectAR\SDULens\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.vuforia.engine.VuforiaEngine.launcher-merged_res-7 C:\Users\lakec\OneDrive\Skrivebord\MiniProjectAR\SDULens\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\merged_res\release
+com.vuforia.engine.VuforiaEngine.launcher-main-8 C:\Users\lakec\OneDrive\Skrivebord\MiniProjectAR\SDULens\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\res
+com.vuforia.engine.VuforiaEngine.launcher-release-9 C:\Users\lakec\OneDrive\Skrivebord\MiniProjectAR\SDULens\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\release\res
+com.vuforia.engine.VuforiaEngine.launcher-packaged_res-10 C:\Users\lakec\OneDrive\Skrivebord\MiniProjectAR\SDULens\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\packaged_res\release

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="tek" size="11.000000 14.666667" />
+    <ImageTarget name="agrene" size="11.000000 14.666667" />
+    <ImageTarget name="bogene" size="11.000000 14.666667" />
+    <ImageTarget name="bygning44" size="11.000000 14.666667" />
+    <ImageTarget name="gyldhutten" size="11.000000 14.666667" />
+  </Tracking>
+</QCARConfig>

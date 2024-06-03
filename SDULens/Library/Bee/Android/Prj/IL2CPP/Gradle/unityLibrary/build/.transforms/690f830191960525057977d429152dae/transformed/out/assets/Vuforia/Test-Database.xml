@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Bowl" size="0.100000 0.133570" />
+    <ImageTarget name="Canapache" size="0.120000 0.160284" />
+  </Tracking>
+</QCARConfig>

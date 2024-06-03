@@ -1,0 +1,54 @@
+allprojects {
+    buildscript {
+        repositories {
+            google()
+        }
+    }
+}
+
+apply plugin: 'com.android.library'
+
+dependencies {
+    implementation 'com.google.ar:core:1.36.0'
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation(name: 'UnityAds', ext:'aar')
+    implementation(name: 'VuforiaEngine', ext:'aar')
+}
+
+android {
+    ndkPath "C:/Program Files/Unity/Hub/Editor/2023.2.13f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK"
+    compileSdkVersion 33
+    buildToolsVersion "32.0.0"
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
+    }
+
+    defaultConfig {
+        consumerProguardFiles "proguard-unity.txt"
+        versionName "10.20.3"
+        minSdkVersion 26
+        targetSdkVersion 33
+        versionCode 10203
+
+        ndk {
+            abiFilters "arm64-v8a"
+        }
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+
+    aaptOptions {
+        ignoreAssetsPattern = "!.svn:!.git:!.ds_store:!*.scc:!CVS:!thumbs.db:!picasa.ini:!*~"
+        noCompress = ['.unity3d', '.ress', '.resource', '.obb', '.bundle', '.unityexp'] + unityStreamingAssets.tokenize(', ')
+    }
+
+    packagingOptions {
+        doNotStrip "*/arm64-v8a/*.so"
+    }
+
+    namespace "com.unity3d.player"
+}

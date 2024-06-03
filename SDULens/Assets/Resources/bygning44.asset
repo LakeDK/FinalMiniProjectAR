@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc695fc075696c14fbfcf4c79a92897c, type: 3}
+  m_Name: bygning44
+  m_EditorClassIdentifier: 
+  title: bygning44
+  description: This is building 44 where most of the rooms are classrooms
+  Rooms:
+  - {fileID: 11400000, guid: 9e0b9233d82b6d8499f2b4ce086f808b, type: 2}
+  - {fileID: 11400000, guid: 891afa452441e6f4d9780c145127b87a, type: 2}
+  - {fileID: 11400000, guid: affa6e650ed00554f8b42a51f52d7734, type: 2}
+  - {fileID: 11400000, guid: 648081ea82e75a24495d9d51fd428648, type: 2}
+  - {fileID: 11400000, guid: 1dc7446abf0df174a8bd58bbedbaf15e, type: 2}
+  - {fileID: 11400000, guid: 0352e22e78e814e46a2e9cdb009a36f9, type: 2}

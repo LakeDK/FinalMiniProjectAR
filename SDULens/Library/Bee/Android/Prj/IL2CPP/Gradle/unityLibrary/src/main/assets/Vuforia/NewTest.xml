@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="astro" size="0.075406 0.130439" />
+    <ImageTarget name="autobahn" size="10.000000 7.500000" />
+    <ImageTarget name="fliba" size="10.000000 13.333333" />
+    <ImageTarget name="wallet" size="10.000000 13.333333" />
+    <ImageTarget name="lime" size="10.000000 13.333333" />
+    <ImageTarget name="Pache" size="10.000000 13.333333" />
+  </Tracking>
+</QCARConfig>
